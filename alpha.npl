@@ -1,0 +1,11 @@
+begin
+     let a=5.2
+     let b=10
+     
+     sum(3,b)
+     avg(1,2,3)
+   
+      print a*2
+      a
+      hi_there
+end
