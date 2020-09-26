@@ -1,2 +1,2 @@
-*.java linguist - detected = true
-*.GAP linguist - detected = true
+*.java linguist-detected=true
+*.GAP linguist-detected=false
